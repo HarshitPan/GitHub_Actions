@@ -1,6 +1,6 @@
 def check(a): 
   if(a%2==0):
     print("Even")
-  else
+  else:
     print("Odd")
 check(10)
